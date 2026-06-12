@@ -24,6 +24,21 @@ This project provides an interactive map-based platform that visualizes property
 
 ![Architecture Diagram](architecture/architecture-diagram.png)
 
+## Sample Implementation
+
+A simplified example of the aggregation logic used for portfolio concentration analysis is included in:
+
+`sample_property_aggregation.py`
+
+This sample demonstrates:
+
+- Geospatial aggregation
+- Grid-based concentration analysis
+- Interactive map generation
+- Exposure visualization
+
+All business-sensitive logic and production data have been removed.
+
 ## Screenshots
 
 ### Portfolio Exposure Overview
